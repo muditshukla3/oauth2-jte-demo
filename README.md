@@ -41,7 +41,7 @@ This project showcases how to secure a Spring Boot application using OAuth2 for 
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/oauth2-jte-demo.git
+git clone https://github.com/muditshukla3/oauth2-jte-demo.git
 ```
 
 ### Configure OAuth2 Client Credentials
